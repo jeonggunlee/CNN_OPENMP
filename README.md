@@ -1,2 +1,2 @@
 # HPC-Course
-OpenMP implementatio
+OpenMP implementation
