@@ -1,4 +1,6 @@
 # HPC-Course
-//OpenMP implementation
+OpenMP implementation
+
 Use "make" for compilation
+
 Use ./cnn for program execution
